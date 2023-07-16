@@ -104,7 +104,7 @@ From the dashboard, I was able to answer the questions listed above
 
 
 ### Connect with me
-
+---
   [Linkedin](linkedin.com/in/chibuzor-data-analyst) 
   
 [Twitter](https://twitter.com/cisco_official?t=zdocHllXoG5cV__V9h0pWg&s=09)
